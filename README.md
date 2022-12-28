@@ -3,7 +3,7 @@
 <h3 align="center">Gosto de jogos, nerd, coisa orientais e desenhar nas horas vagas.</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=LeoRVergani&label=Profile%20views&color=0e75b6&style=plastic" alt="LeoRVergani" /> </p>
   <a href="https://github.com/LeoRVergani">
-  <img align="left" height="160m" src="https://github-readme-stats.vercel.app/api?username=LeoRVergani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="150m" src="https://github-readme-stats.vercel.app/api?username=LeoRVergani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRVergani&layout=compact&langs_count=7&theme=dark"/>
   <br>
   <hr>
