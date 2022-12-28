@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=LeoRVergani&label=Profile%20views&color=0e75b6&style=plastic" alt="LeoRVergani" /> </p>
   <a href="https://github.com/LeoRVergani">
   <img align="center" height="160m" src="https://github-readme-stats.vercel.app/api?username=LeoRVergani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRVergani&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRVergani&layout=compact&langs_count=7&theme=dark"/>
   <hr>
   <div>
   <img align="center" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRVergani&theme=dark" alt="LeoRVergani" />
