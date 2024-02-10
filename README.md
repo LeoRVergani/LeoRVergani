@@ -5,11 +5,6 @@
   <a href="https://github.com/LeoRVergani">
   <img align="left" height="140m" src="https://github-readme-stats.vercel.app/api?username=LeoRVergani&show_icons=true&theme=nightowl"/>
   <img align="right" height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRVergani&theme=nightowl"/>
-  <br>
-  <hr>
-  <div>
-  <img align="center" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRVergani&theme=dark" alt="LeoRVergani" />
-</div>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
