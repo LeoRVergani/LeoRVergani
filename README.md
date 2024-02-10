@@ -8,5 +8,5 @@
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://linkedin.com/in/LeoRVergani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LeoRVergani" height="30" width="40" /></a>
-</p>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LeoRVergani" height="30" width="40" /></a>
+</p><a href="https://linkedin.com/in/LeoRVergani" target="blank">
