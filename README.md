@@ -8,8 +8,7 @@
     
   <img align="center" height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRVergani&theme=nightowl"/>
 
-  <img align="right" height="200m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRVergani&layout=donut&theme=nightowl" />
-  
+
  </div>
  <div>
    <hr>
