@@ -1,4 +1,4 @@
-<h1 align="center">OI👋, Eu sou Leonardo</h1>
+<h1 align="center">Oi👋, Eu sou Leonardo</h1>
 <h3 align="center">Adoro aprender coisas novas!</h3>
 <h3 align="center">Gosto de jogos, nerd, da cultura oriental e desenhar nas horas vagas.</h3>
 <h3 align="center">Atualmente estudando novas tecnologias em desenvolvimento de software.</h3>
