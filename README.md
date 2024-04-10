@@ -16,14 +16,9 @@
   <img src="https://profile-counter.glitch.me/leorvergani/count.svg"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&theme=shadow_blue&layout=compact"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&layout=compact&theme=shadow_blue&hide_border=true&"width="50%"/>
 </p>  
 
-<!---
-<a href="https://github.com/leorvergani/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leorvergani&repo=github-readme-stats&theme=shadow_green" />
-</a>
------------>
 <p align="center">
   <a href="https://github.com/leorvergani?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=leorvergani&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@leorvergani's github-readme-stats">
