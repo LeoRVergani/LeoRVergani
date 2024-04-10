@@ -1,8 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=LeoRVergani&label=Profile%20views&color=0e75b6&style=plastic" alt="LeoRVergani" /> </p>
 <h1 align="center">Oi👋, Eu sou Leonardo</h1>
 <h3 align="center">Adoro aprender coisas novas!</h3>
-<h3 align="center">Gosto de jogos, nerd, da cultura oriental e desenhar nas horas vagas.</h3>
 <h3 align="center">Atualmente estudando novas tecnologias em desenvolvimento de software.</h3>
+<h3 align="center">Gosto de jogos, nerd, da cultura oriental e desenhar nas horas vagas.</h3>
+
 
 <p align="center">
   <a href="https://github.com/getintorj/readme-typing-svg">
