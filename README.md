@@ -4,11 +4,6 @@
 <h3 align="center">Atualmente estudando novas tecnologias em desenvolvimento de software.</h3>
 <h3 align="center">Gosto de estudar, gosto de jogos, da cultura oriental e desenhar nas horas vagas.</h3>
 
-
-<p align="center">
-  <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
-  </a>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="50%"/>
