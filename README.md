@@ -93,7 +93,6 @@ while(alive) {
   sleep();
   code();
 }
-// - Aashis Jha
 ```
 
 <hr />
