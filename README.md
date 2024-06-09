@@ -18,11 +18,6 @@
 </p>
 <br/>
 
-
-  
-<p align="center">
-  🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
-   </p>
 <p align="center">
 <a href="https://discord.com/users/leorvergani" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://twitter.com/leorvergani" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
@@ -35,11 +30,6 @@
 </p>
 
 <br />
-
-<p align="center"> 
- 🆃🅴🅲🅷 🆂🆃🅰🅲🅺<br>
-  </p>
-
 ---
 
 <p align="center">
@@ -54,46 +44,15 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png" alt="linux" width="40" height="40" /></a>  
 
-
-
-
----
-<details>
-  <summary>Skills</summary>
-  
-- Problem Solving
-- Web Content Writing
-- Researching $ Learning
-- Drawing
-</details>
-
 <details>
   <summary>Hobbies</summary>
 🍽️ 🛌 👨🏻‍💻 🔁 
 </br> 
-  🌏 Traveling
-  📚 Learning
+  🌏 Viajar
+  📚 Estudar
   🎮 Video Games
-  🎧 Listening to Music
+  🎧 Ouvir músicas
 </details>
-
-
----
-``` java
-// Check if the code is functioning correctly
-if (isCodeWorking) {
-    // Continuously improve the code quality until it reaches perfection
-    while (codeQuality < perfection) {
-        codeQuality++; // Increment code quality
-    }
-}
-
-while(alive) {
-  eat();
-  sleep();
-  code();
-}
-```
 
 <hr />
 <div align="center">
