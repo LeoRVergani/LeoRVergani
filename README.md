@@ -4,11 +4,11 @@
 
 ## Português
 
-Olá, meu nome é Leonardo e tenho 36 anos. Gosto de filmes, séries, jogos de tabuleiro e também adoro programar e resolver problemas. Atualmente, estou em transição de carreira e me dedicando intensamente aos estudos para aprender cada vez mais sobre a área de desenvolvimento de software. Nas horas vagas, gosto de desenhar mangás, embora tenha deixado um pouco de lado essa atividade devido à intensidade dos meus estudos. Estou animado com as novas oportunidades e desafios que essa transição de carreira me proporciona e estou sempre buscando expandir meus conhecimentos.
+Olá, meu nome é Leonardo e tenho 36 anos. Gosto de filmes, séries, jogos de tabuleiro e também adoro programar e resolver problemas. Atualmente, estou em transição de carreira e me dedicando intensamente aos estudos para aprender cada vez mais sobre a área de desenvolvimento de software. Nas horas vagas, gosto de desenhar, embora tenha deixado um pouco de lado essa atividade devido à intensidade dos meus estudos. Estou animado com as novas oportunidades e desafios que essa transição de carreira me proporciona e estou sempre buscando expandir meus conhecimentos.
 
 ## English
 
-Hello, my name is Leonardo, and I am 36 years old. I enjoy movies, series, board games and I also love programming and solving problems. Currently, I am transitioning my career and dedicating a lot of time to studying and learning new things in the field of software development. In my spare time, I enjoy drawing manga, although I've put this hobby aside a bit due to the demands of my studies. I am excited about the new opportunities and challenges this career transition brings, and I am always looking to expand my knowledge.
+Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board games and I also love programming and solving problems. Currently, I am transitioning my career and dedicating a lot of time to studying and learning new things in the field of software development. In my spare time, I enjoy drawing, although I've put this hobby aside a bit due to the demands of my studies. I am excited about the new opportunities and challenges this career transition brings, and I am always looking to expand my knowledge.
 
 </div>
 <hr>
