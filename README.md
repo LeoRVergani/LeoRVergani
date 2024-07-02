@@ -8,7 +8,7 @@ Olá, meu nome é Leonardo e tenho 36 anos. Gosto de filmes, séries, jogos de t
 
 ## English
 
-Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board games and I also love programming and solving problems. Currently, I am transitioning my career and dedicating a lot of time to studying and learning new things in the field of software development. In my spare time, I enjoy drawing, although I've put this hobby aside a bit due to the demands of my studies. I am excited about the new opportunities and challenges this career transition brings, and I am always looking to expand my knowledge.
+Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board games and I also love programming and solving problems. Currently, I am transitioning my career and dedicating a lot of time to studying and learning new things in the field of software development. In my spare time, I enjoy drawing, although I've put this hobby aside a bit due to the demands of my studies. I am excited about the new opportunities and challenges this career transition brings, and I am always looking to expand my knowledge..
 
 </div>
 <hr>
