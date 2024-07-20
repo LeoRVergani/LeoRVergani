@@ -11,8 +11,8 @@ Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board 
 </div>
 <hr>
 </p>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="45%"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="35%"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="50%"/>
 </p>  
 
@@ -23,8 +23,6 @@ Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board 
   <a href="https://github.com/leorvergani?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=leorvergani&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
   </a>
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 <br/>
 
 <p align="center">
