@@ -13,7 +13,7 @@ Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board 
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="50%"/>
 </p>  
 
 <p align="center">
