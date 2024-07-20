@@ -17,12 +17,8 @@ Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board 
 </p>  
 
 <p align="center">
-  <a href="https://github.com/leorvergani?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=leorvergani&theme=blue-green&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49.5%" alt="@leorvergani's github-readme-stats">
-  </a>
-  <a href="https://github.com/leorvergani?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=leorvergani&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49.5%" alt="@AJ's github-readme-streak-stats">
-  </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=leorvergani&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49.5%" alt="@leorvergani's github-readme-streak-stats">
 <br/>
 
 <p align="center">
