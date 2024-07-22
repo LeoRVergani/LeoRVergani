@@ -1,5 +1,5 @@
 <div align="center">
-## Sobre mim / About Me
+Sobre mim / About Me
 
 ## Português
 
