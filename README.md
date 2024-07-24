@@ -21,7 +21,7 @@ Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board 
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=leorvergani&theme=blue-green&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49.5%" alt="@leorvergani's github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=leorvergani&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49.5%" alt="@leorvergani's github-readme-streak-stats">
-<br/>
+<br>
 
 <p align="center">
 <a href="https://discord.com/users/leorvergani" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
@@ -34,7 +34,7 @@ Hello, my name is Leonardo and I am 36 years old. I enjoy movies, series, board 
 <a href="mailto:leorverga@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
-<br />
+<br>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
