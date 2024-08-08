@@ -1,5 +1,4 @@
 <div align="center">
-<hr>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="41%"/>
