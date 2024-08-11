@@ -1,5 +1,4 @@
 <div align="center">
-</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&hide_progress=true&theme=blue-green&hide_border=true&"width="41%"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="58%"/>
