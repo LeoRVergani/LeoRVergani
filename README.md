@@ -17,7 +17,6 @@
 <a href="https://www.youtube.com/leorvergani" target="_blank"><img alt="" src="https://img.shields.io/badge/leorvergani%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:leorverga@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
-
 <br>
 
 <p align="center">
