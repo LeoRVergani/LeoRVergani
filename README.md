@@ -7,7 +7,6 @@
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=leorvergani&theme=blue-green&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49.5%" alt="@leorvergani's github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=leorvergani&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49.5%" alt="@leorvergani's github-readme-streak-stats">
 <br>
-
 <p align="center">
 <a href="https://discord.com/users/leorvergani" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://twitter.com/leorvergani" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
