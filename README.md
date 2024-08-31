@@ -1,8 +1,8 @@
-<div align="center">
+<div align="center" border="1px solid">
 <p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*lSVx9411j-PCbwzF.gif" width="75%"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&hide_progress=true&theme=blue-green&hide_border=true&"width="41%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="58%"/>
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*lSVx9411j-PCbwzF.gif" width="75%"/><br><hr />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&hide_progress=true&theme=blue-green&hide_border=true&"width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="60%"/>
 </p>  
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=leorvergani&theme=blue-green&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49.5%" alt="@leorvergani's github-readme-stats">
