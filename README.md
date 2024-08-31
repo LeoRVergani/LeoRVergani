@@ -1,5 +1,6 @@
 <div align="center">
 <p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*lSVx9411j-PCbwzF.gif" width="33.5%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorvergani&hide_progress=true&theme=blue-green&hide_border=true&"width="41%"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="58%"/>
 </p>  
