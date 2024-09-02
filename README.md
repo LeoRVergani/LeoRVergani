@@ -41,7 +41,6 @@
   🎮 Video Games
   🎧 Ouvir músicas
 </details>
-
 <hr />
 <div align="center">
   <i>❝<B> OS PEQUENOS DETALHES FAZEM A DIFERENÇA.</b>❞</i>
