@@ -30,7 +30,6 @@
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png" alt="linux" width="40" height="40" /></a>  
-
 <details>
   <summary>Hobbies</summary>
 🍽️ 🛌 👨🏻‍💻 🔁 
