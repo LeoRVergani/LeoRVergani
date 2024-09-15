@@ -5,6 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leorvergani&layout=compact&theme=blue-green&hide_border=true&"width="60%"/>
 </p>  
 <p align="center">
+
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=leorvergani&theme=blue-green&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49.5%" alt="@leorvergani's github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=leorvergani&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49.5%" alt="@leorvergani's github-readme-streak-stats">
 <br>
