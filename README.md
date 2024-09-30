@@ -1,4 +1,3 @@
-
 <div align="center" border="1px solid">
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*lSVx9411j-PCbwzF.gif" width="75%"/><br><hr />
