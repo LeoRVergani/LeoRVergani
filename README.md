@@ -20,7 +20,7 @@
 <a href="mailto:leorverga@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 <br>
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" alt="python" width="40" height="40" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="40" height="40" /></a>
@@ -29,7 +29,7 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" alt="Postgresql" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/828/PNG/512/Git_icon-icons.com_66557.png" alt="git" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2170/PNG/512/linux_operating_system_logo_icon_133255.png" alt="linux" width="40" height="40" /></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2170/PNG/512/linux_operating_system_logo_icon_133255.png" alt="linux" width="40" height="40" /></a> -->
     <hr />
 <details>
   <summary>Hobbies</summary>
